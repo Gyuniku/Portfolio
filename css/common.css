@@ -161,6 +161,10 @@ body::before {
   background-color: lightsteelblue;
 }
 
+.main-content .outputs {
+  background-color: rgb(151, 172, 195);
+}
+
 /* スマホ表示時はコンテンツの左右余白を小さくする */
 @media (max-width:599px) {
   .main-content>div {
